@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="thumbnail41.png" width="800">
+</p>
+
+---
+
 # 🩺 Diabetes Prediction App using Machine Learning
 
 A simple and powerful **Machine Learning web application** built with **Streamlit** that predicts whether a person is diabetic or not based on medical input features.
@@ -126,16 +132,12 @@ Age: 30
 * 📱 Mobile responsive UI
 
 ---
+## 🔗 Links
 
-## 📎 Portfolio
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/diabetes-prediction.git)
 
-🌐 https://senthamill.vercel.app/
-
----
-
-## 🤝 Connect with Me
-
-💼 LinkedIn: https://www.linkedin.com/in/senthamil45
 
 ---
 
